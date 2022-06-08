@@ -1,5 +1,5 @@
 # CRUD-APP
-<li> A simple Web Application Where User can Perform CRUD Operations.
+<li> CRUD App is a Web Application Where User can Perform CRUD Operations.
 <li> It is Created Using JSP, Servlet, Hiberate, Spring Frameworks and Bootstrap.
 <li> This is a learning Based Project and built using Maven.
 
